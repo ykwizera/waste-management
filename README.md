@@ -109,10 +109,10 @@ AWS Deployment
 Use Elastic Beanstalk or another AWS service for deployment.
 Follow AWS documentation for setting up the environment and deploying your application.
 
-Link to the user registration repo (front-end)
+**Link to the user registration repository (front-end)**
 
      https://github.com/nellyiya/Waste-Management-System_Frontend
 
-Link to the user registration repo (Back-end)
+**Link to the user registration repository (Back-end)**
 
      https://github.com/nellyiya/Waste-Management-System_Backend
